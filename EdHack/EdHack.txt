@@ -1,0 +1,27 @@
+//EdHack
+
+What's the motive?
+
+Many people believe a college education can help any hard working person.But not everyone is able to attend a college or university. One common barrier is money.Most of the Students who wants the Quality Education and are very keen to learn something new, but they can't afford the College Fees.So, Ensuring equal chances for everyone is an important part of the Personal identity.We have made an Mobile App which help the students to kickstart their journey to the Programming who don't have acess to any college.This app provides a Roadmap for each topic from the begining to end with the best resources compiled together and various Practice problems to test your knowledge in the respective field.Our aim is to help noobs in the programming to become the pros. We created a prototype of our idea and have used Firbase Cloud Authentication for further Development of the application for implementing our complete idea.
+
+Files attached.
+1. Project_source_file
+2. Presentation_file
+3. App Demonstration video
+4. APK File
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+        
